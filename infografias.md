@@ -7,9 +7,9 @@ A continuación, y como final de la infografía, se aporta una cronología de lo
 Se trata de una infografía que resulta bastante útil para entender el sistema español y la situación de la política en el país. Además, hace uso de varios formatos visuales, lo que permite una mayor atención y comprensión de los hechos que se presentan. 
 
 
-#[Infografia 2]#(https://images.app.goo.gl/o6AdceHivrFV1snm7)
+[Infografia 2](https://images.app.goo.gl/o6AdceHivrFV1snm7)
 
-##Balón de oro##
+##Balón de oro
 
 La presente infografía versa sobre los resultados del Balón de Oro de la FIFA de 2012. En ella, se muestra a los tres mejores jugadores de esa temporada y se indica si han quedado en primero, segundo o tercer puesto. Fue creada en el años 2012 por L´Equipe/FIFA y, a día de hoy, a pesar del tiempo que ha pasado, sigue resultando últil y visualmente atractiva para conocer los resultados de las votaciones de aquella temporada.
 Empezando por el final, se muestra al tercer finalista, Andrés Iniesta, ganador del balón de bronce. Se indica su nacionalidad, por el equipaje que porta en la fotografía y su club, pues aparece el escudo del FCB a su lado. Bajo él, su edad, trayectoria y palmarés, se muestran en una tabla sencilla de  tono rojizo, debido al club en el que juega el centrocampista. Asimismo, nos aporta los motivos por los que el jugador ha sido galardonado con ese trofeo, incluyendo, además, el porcentaje de votos obtenido en la elección.
