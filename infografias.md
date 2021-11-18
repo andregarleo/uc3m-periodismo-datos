@@ -14,7 +14,11 @@ Se trata de una infografía que resulta bastante útil para entender el sistema 
 ## Balón de oro
 
 La presente infografía versa sobre los resultados del Balón de Oro de la FIFA de 2012. En ella, se muestra a los tres mejores jugadores de esa temporada y se indica si han quedado en primero, segundo o tercer puesto. Fue creada en el años 2012 por L´Equipe/FIFA y, a día de hoy, a pesar del tiempo que ha pasado, sigue resultando últil y visualmente atractiva para conocer los resultados de las votaciones de aquella temporada.
-Empezando por el final, se muestra al tercer finalista, Andrés Iniesta, ganador del balón de bronce. Se indica su nacionalidad, por el equipaje que porta en la fotografía y su club, pues aparece el escudo del FCB a su lado. Bajo él, su edad, trayectoria y palmarés, se muestran en una tabla sencilla de  tono rojizo, debido al club en el que juega el centrocampista. Asimismo, nos aporta los motivos por los que el jugador ha sido galardonado con ese trofeo, incluyendo, además, el porcentaje de votos obtenido en la elección.
-En segundo lugar se posiciona Cristiano Ronaldo, con el 23,68% de los votos. Al igual que en el caso anterior, se indican su club, nacionalidad, edad, trayectoria y palmarés.
-Por último, en el centro, y protagonizando la infografía, se encuentra Leo Messi, ganador, por cuarto año consecutivo del ansiado trofeo. Al igual que en el caso de sus compañeros, se indican su edad, nacionalidad, club y palmarés. En este caso, el futbolista argentino obtuvo el 41,60% de los votos.
+
+1. Empezando por el final, se muestra al tercer finalista, **Andrés Iniesta**, ganador del balón de bronce. Se indica su nacionalidad, por el equipaje que porta en la fotografía y su club, pues aparece el escudo del FCB a su lado. Bajo él, su edad, trayectoria y palmarés, se muestran en una tabla sencilla de  tono rojizo, debido al club en el que juega el centrocampista. Asimismo, nos aporta los motivos por los que el jugador ha sido galardonado con ese trofeo, incluyendo, además, el porcentaje de votos obtenido en la elección.
+
+1. En segundo lugar se posiciona **Cristiano Ronaldo**, con el 23,68% de los votos. Al igual que en el caso anterior, se indican su club, nacionalidad, edad, trayectoria y palmarés.
+
+1. Por último, en el centro, y protagonizando la infografía, se encuentra **Leo Messi**, ganador, por cuarto año consecutivo del ansiado trofeo. Al igual que en el caso de sus compañeros, se indican su edad, nacionalidad, club y palmarés. En este caso, el futbolista argentino obtuvo el 41,60% de los votos.
+
 Se trata de una infografía bastante fácil de entender, pero con una gran cantidad de detalles, lo que hace que se obtengan numerosos datos de manera rápida y sencilla. Mediante imágenes y tablas, se logra una explicación de los ganadores bastante acertada.
