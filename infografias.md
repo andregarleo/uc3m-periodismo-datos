@@ -9,7 +9,7 @@ A continuación, y como final de la infografía, se aporta una **cronología** d
 Se trata de una infografía que resulta bastante útil para entender el sistema español y la **situación de la política** en el país. Además, hace uso de varios formatos visuales, lo que permite una mayor atención y comprensión de los hechos que se presentan. 
 
 
-[Infografia 2](https://images.app.goo.gl/o6AdceHivrFV1snm7)
+[Infografia 2](http://www.infografikacomunicacion.es/m/infografias-prensa/especiales/131-balon-de-oro-2012)
 
 ## Balón de oro
 
