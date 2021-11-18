@@ -2,11 +2,11 @@
 
 ## Elecciones 26J
 
-En la presente infografía, publicada en la página web de la Agencia EFE, se recogen los datos relativos a las elecciones generales del 26 de junio de 2016. En él se muestra una explicación detallada del sistema electoral español y una serie de gráficos que permiten una mejor comprensión de este fenómeno.
-Al principio, se aporta la información relativa a este sistema para, más adelante, haciendo uso de gráficos de barras y utilizando esferas de cantidades en las distintas áreas geográficas de España, dar a conocer los escaños que corresponden a cada circunscripción y los representantes por comunidades autónomas, tanto en el Congreso como en el Senado.
-Una nueva imagen de ambos hemicilos, que diferencia mediante círculos de color a los partidos políticos, nos da la cifra de representantes de cada partido. Además hacen uso de las imágenes de los presidentes de ambas cámaras, Patxi López y Pio García-Escudero. Bajo ellos, las cifras de representantes con las que cuenta cada partido en cada una de las cámaras. 
-A continuación, y como final de la infografía, se aporta una cronología de lo que serán las elecciones, con explicaciones pormenorizadas de cada fecha.
-Se trata de una infografía que resulta bastante útil para entender el sistema español y la situación de la política en el país. Además, hace uso de varios formatos visuales, lo que permite una mayor atención y comprensión de los hechos que se presentan. 
+En la presente infografía, publicada en la página web de la Agencia EFE, se recogen los datos relativos a las **elecciones generales del 26 de junio de 2016**. En él se muestra una explicación detallada del sistema electoral español y una serie de gráficos que permiten una mejor comprensión de este fenómeno.
+Al principio, se aporta la información relativa a este sistema para, más adelante, haciendo uso de **gráficos de barras** y utilizando esferas de cantidades en las distintas áreas geográficas de España, dar a conocer los escaños que corresponden a cada circunscripción y los representantes por comunidades autónomas, tanto en el **Congreso** como en el **Senado**.
+Una nueva imagen de ambos hemicilos, que diferencia mediante círculos de color a los partidos políticos, nos da la cifra de representantes de cada partido. Además hacen uso de las imágenes de los presidentes de ambas cámaras, **Patxi López** y **Pio García-Escudero**. Bajo ellos, las cifras de representantes con las que cuenta cada partido en cada una de las cámaras. 
+A continuación, y como final de la infografía, se aporta una **cronología** de lo que serán las elecciones, con explicaciones pormenorizadas de cada fecha.
+Se trata de una infografía que resulta bastante útil para entender el sistema español y la **situación de la política** en el país. Además, hace uso de varios formatos visuales, lo que permite una mayor atención y comprensión de los hechos que se presentan. 
 
 
 [Infografia 2](https://images.app.goo.gl/o6AdceHivrFV1snm7)
