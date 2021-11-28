@@ -2,7 +2,8 @@
 
 ### Visualización población canaria por edad (2019)
 
-
+<p style="text-align:
+          justify; ">
 La base de datos utilizada para la creación del proyecto fue **“Población por sexo, islas y edad (grupos quinquenales)”**, cuya fuente es el INE *(Instituto Nacional de Estadística)*.
 
 En él, se condensaban los datos relativos a esos aspectos, con **todas las islas españolas**, división por sexos y edad. Sin embargo, para realizar la infografía solo se tuvieron en cuenta los datos referidos a las **Islas Canarias**, sin tener en cuenta el sexo, únicamente el total de población por cada rango de edad.
@@ -15,6 +16,6 @@ Tras probar diferentes formatos, se optó por el de **barras**, debido a la idon
 
 Finalmente, después de haber dado por terminado el proceso de producción, se llevó a cabo su **publicación**, dando como resultado final la visualización presentada. 
 
-Por último, con el fin de publicar la inografía en **Github**, se accedió desde la **terminal** a este repositorio, realizando en **nano** el presente texto y añadiendo la visualización.
+Por último, con el fin de publicar la inografía en **Github**, se accedió desde la **terminal** a este repositorio, realizando en **nano** el presente texto y añadiendo la visualización.>
 
-https://datawrapper.dwcdn.net/ZNSXs/1/
+[![ZNSXs-poblaci-n-de-canarias-por-edad.png](https://i.postimg.cc/d3gTscnX/ZNSXs-poblaci-n-de-canarias-por-edad.png)](https://postimg.cc/n9YL25yY)
