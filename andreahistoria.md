@@ -2,11 +2,10 @@
 
 ### Visualización población canaria por edad (2019)
 
-<p style="text-align:
-          justify; ">
-La base de datos utilizada para la creación del proyecto fue **“Población por sexo, islas y edad (grupos quinquenales)”**, cuya fuente es el INE *(Instituto Nacional de Estadística)*.
 
-En él, se condensaban los datos relativos a esos aspectos, con **todas las islas españolas**, división por sexos y edad. Sin embargo, para realizar la infografía solo se tuvieron en cuenta los datos referidos a las **Islas Canarias**, sin tener en cuenta el sexo, únicamente el total de población por cada rango de edad.
+La base de datos utilizada para la creación del proyecto fue **Población por sexo, islas y edad (grupos quinquenales)**, cuya fuente es el **INE** (*Instituto Nacional de Estadística*).
+
+En él, se condensaban los datos relativos a esos aspectos, con **todas las islas españolas**, división por sexos y edad. Sin embargo, para realizar la infografía solo se tuvieron en cuenta los datos referidos a las **Islas Canarias**, ignorando la variante del sexo y utilizando únicamente el total de población por cada rango de edad.
 
 Una vez escogida la **base de datos** y descargada del INE en **formato CVS** se procedió al vertido de los mismo en **Open Refine**. Allí, mediante un proceso de limpieza, se descartaron los datos que eran innecesarios para realizar nuestra visualización. Se utilizaron, para ello, herramientas como el **filtro de texto** o, a un nivel más general, la **eliminación de columnas y celdas** que no eran necesarias para completar el proceso. 
 
@@ -16,6 +15,6 @@ Tras probar diferentes formatos, se optó por el de **barras**, debido a la idon
 
 Finalmente, después de haber dado por terminado el proceso de producción, se llevó a cabo su **publicación**, dando como resultado final la visualización presentada. 
 
-Por último, con el fin de publicar la inografía en **Github**, se accedió desde la **terminal** a este repositorio, realizando en **nano** el presente texto y añadiendo la visualización.>
-
-[![ZNSXs-poblaci-n-de-canarias-por-edad.png](https://i.postimg.cc/d3gTscnX/ZNSXs-poblaci-n-de-canarias-por-edad.png)](https://postimg.cc/n9YL25yY)
+Por último, con el fin de publicar la inografía en **Github**, se accedió desde la **terminal** a este repositorio, realizando en **nano** el presente texto y añadiendo la visualización.
+                   
+ ![ZNSXs-poblaci-n-de-canarias-por-edad](https://user-images.githubusercontent.com/90326392/143773639-1a32e9e0-6219-4194-a8d8-7f82b76b9e56.png)
