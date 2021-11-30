@@ -7,7 +7,7 @@ La base de datos utilizada para la creación del proyecto fue **Población por s
 
 En él, se condensaban los datos relativos a esos aspectos, con **todas las islas españolas**, división por sexos y edad. Sin embargo, para realizar la infografía solo se tuvieron en cuenta los datos referidos a las **Islas Canarias**, ignorando la variante del sexo y utilizando únicamente el total de población por cada rango de edad.
 
-Una vez escogida la **base de datos** y descargada del INE en **formato CVS** se procedió al vertido de los mismo en **Open Refine**. Allí, mediante un proceso de limpieza, se descartaron los datos que eran innecesarios para realizar nuestra visualización. Se utilizaron, para ello, herramientas como el **filtro de texto** o, a un nivel más general, la **eliminación de columnas y celdas** que no eran necesarias para completar el proceso. 
+Una vez escogida la **base de datos** y descargada del INE en **formato CSV** se procedió al vertido de los mismo en **Open Refine**. Allí, mediante un proceso de limpieza, se descartaron los datos que eran innecesarios para realizar nuestra visualización. Se utilizaron, para ello, herramientas como el **filtro de texto** o, a un nivel más general, la **eliminación de columnas y celdas** que no eran necesarias para completar el proceso. 
 
 Una vez terminada esta fase se procedió a la creación de la visualización en **DataWrapper**, momento en el que se arreglaron algunos aspectos. Una vez se hubo comprobado que los datos eran correctos, se avanzó hasta el apartado de *“Visualize”*, momento en el que se escoge el formato y demás aspectos de nuestro proyecto. 
 
