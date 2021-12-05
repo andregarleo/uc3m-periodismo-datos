@@ -9,6 +9,9 @@ A continuación, y como final de la infografía, se aporta una **cronología** d
 Se trata de una infografía que resulta bastante útil para entender el sistema español y la **situación de la política** en el país. Además, hace uso de varios formatos visuales, lo que permite una mayor atención y comprensión de los hechos que se presentan. 
 
 
+![Infografia1](https://user-images.githubusercontent.com/90326392/144721338-e47bb317-b744-4443-b29a-952af6600295.jpg)
+
+
 [Infografia 2](http://www.infografikacomunicacion.es/m/infografias-prensa/especiales/131-balon-de-oro-2012)
 
 ## Balón de oro
@@ -22,3 +25,7 @@ La presente infografía versa sobre los resultados del Balón de Oro de la FIFA 
 1. Por último, en el centro, y protagonizando la infografía, se encuentra **Leo Messi**, ganador por cuarto año consecutivo del ansiado trofeo. Al igual que en el caso de sus compañeros, se indican su edad, nacionalidad, club y palmarés. En este caso, el futbolista argentino obtuvo el **41,60%** de los votos.
 
 Se trata de una infografía bastante fácil de entender, pero con una gran cantidad de detalles, lo que hace que se obtengan numerosos datos de manera rápida y sencilla. Mediante imágenes y tablas, se logra una explicación de los ganadores bastante acertada.
+
+
+![Infografia2](https://user-images.githubusercontent.com/90326392/144721361-ed6c0b24-536f-495e-92e1-6dff9144795a.jpg)
+
