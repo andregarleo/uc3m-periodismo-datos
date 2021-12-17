@@ -6,7 +6,7 @@ El medio pionero del periodismo de datos es el periódico inglés "The Guardian"
 
 ### 2. ¿Qué es el periodismo de datos? Aporta tus impresiones sobre el debate.
 
-El periodismo de datos pone al servicio de la investigacion unos datos, para hacer del periodismo una investigación más fiable.
+El periodismo de datos pone al servicio de la investigación unos datos, para hacer del periodismo una investigación más fiable.
 El periodismo de datos del que bebemos hoy en día, surgió entre **2006 y 2008** y apareció por la combinación de varios factores: la abundancia de software de datos abiertos, HTML5 y Open Data.
 
 Tiene tres ascpectos fundamentales:
