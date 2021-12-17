@@ -37,6 +37,8 @@ Entre el año 2006 y 2008 nació el periodismo de datos moderno y apareció por 
 
 ### 7. ¿Qué es una API? Pon un ejemplo
 
+API significa interfaz de programación de acceso o Assist Programming Interface y vendría a ser los códigos para comuncarse en la web. Una API muy reconocida es HTTP.
+
 ### 8. ¿Qué es Markdown? Similitudes y diferencias con respecto a HTML.
 
 Markdown es un tipo de lenguaje informático de fácil manejo. Utiliza herramientas como los #, que permiten crear títulos o subtítulos. Tambien los números y las - sirven para ordenar la información. Además, los asteriscos podrán modificar las palabras a **negrita** o *cursiva*. Para guardar un archivo en este formato se deberá hacer de la siguiente manera: nombredelarchivo.md y no se podrán utilizar caracteres como ñ o tildes.
@@ -52,18 +54,20 @@ que sea. La separación entre protocolo y dominio se lleva a cabo con ://
 
 2. El dominio, es decir: github.com
 
-3. La estructura de carpetas del servidor web, decir: pontedatos/uc3m-periodismo-datos
-
+3. La estructura de carpetas del servidor web, es decir: pontedatos/uc3m-periodismo-datos
 
 ### 10. Apunta tres herramientas gráficas has utilizado y para qué.
 
   En el presente curso hemos utilizado diferentes herramientas gráficas: 
+  
+  1. **Datawrapper**: Para crear visualizaciones de datos.
+  2. **OpenRefine**: Para limpiar datos.
 
 ### 11.  Apunta tres comandos que hayas utilizado y para qué.
 
-cd lo he utilizado para abrir mi directorio en la terminal (en este caso Cygwin).
-ls lo he usado para saber listar los archivos y directorios.
-nano además de un comando es un editor de texto, y lo he utilizado como tal.
+**cd** lo he utilizado para abrir mi directorio en la terminal (en este caso Cygwin).
+**ls** lo he usado para saber listar los archivos y directorios.
+**nano** además de un comando es un editor de texto, y lo he utilizado como tal.
 
 ### 12. ¿Qué relación tiene el formato CSV con Excel?
 
@@ -102,8 +106,13 @@ Para conocer el valor de la variable PATH se debe de escribir en la terminal: ec
 
 ### 18. Pon un ejemplo de "operadores" que hemos utilizado o bien en la terminal o en buscadores de la Web.
 
+**>** Envía la salida de un comando a un archivo. Si ya existe, lo
+sobreescribe y si no existe, lo crea.
+
 ### 19. ¿Qué harías si al ejecutar un comando te salta el aviso "command not found"?
+
+Haría **git pull** para ver si se resuelve
 
 ### 20. ¿Cómo harías para que OpenRefine interpretara correctamente los tipos de datos?
 
-
+Para que OpenRefine interpretara correctamente los tipos de datos trataría de utilizar una base de datos en formato CSV, que es más sencilla y clara de utilizar y sería leída de mejor manera por el programa. 
