@@ -35,12 +35,59 @@ Internet se trata de un sistema de computadoras que están conectadas a nievel m
 
 Entre el año 2006 y 2008 nació el periodismo de datos moderno y apareció por la combinación de varios factores: la abundancia de software de datos abiertos, HTML5 y Open Data.
 
+### 7. ¿Qué es una API? Pon un ejemplo
+
+### 8. ¿Qué es Markdown? Similitudes y diferencias con respecto a HTML.
+
+Markdown es un tipo de lenguaje informático de fácil manejo. Utiliza herramientas como los #, que permiten crear títulos o subtítulos. Tambien los números y las - sirven para ordenar la información. Además, los asteriscos podrán modificar las palabras a **negrita** o *cursiva*. Para guardar un archivo en este formato se deberá hacer de la siguiente manera: nombredelarchivo.md y no se podrán utilizar caracteres como ñ o tildes.
+
+En cambio, el lenguaje HTML es más sofisticado y complejo, y se suele utilizar para la creación de páginas web. Sus principales caracteres son <>, además de p que indica el párrafo o h1, h2 (que sería el header)
+
+### 9. Explica la URL https://github.com/pontedatos/uc3m-periodismo-datos
+
+En una URL se identifican 3 partes:
+
+1. **https://**, que se utiliza para indicar el protocolo usado. https en el dominio
+que sea. La separación entre protocolo y dominio se lleva a cabo con ://
+
+2. El dominio, es decir: github.com
+
+3. La estructura de carpetas del servidor web, decir: pontedatos/uc3m-periodismo-datos
 
 
+### 10. Apunta tres herramientas gráficas has utilizado y para qué.
+
+  En el presente curso hemos utilizado diferentes herramientas gráficas: 
+
+### 11.  Apunta tres comandos que hayas utilizado y para qué.
+
+cd lo he utilizado para abrir mi directorio en la terminal (en este caso Cygwin).
+ls lo he usado para saber listar los archivos y directorios.
+nano además de un comando es un editor de texto, y lo he utilizado como tal.
+
+### 12. ¿Qué relación tiene el formato CSV con Excel?
+
+### 13. ¿Cuál fue el comienzo del CAR (Computer Assisted Reporting)?
+El comienzo de Computer Assited Reporting lleva funcionando en Estados Unidos desde 1950. Como pasó en su dia con el diseño gráfico, a este tipo de periodismo se le denominó así por tratarse de un periodismo "asistido por ordenador".
+
+### 14. ¿Qué tipos de formatos de datos hay? ¿Que similitudes y diferencias tienen?
+
+Hay varios tipos de formatos:
+
+1. XML: muy complejo para el nivel en que nos encontramos. Significa eXtensible Markup Language
+2. JSON:
+3. CSV: 
 
 
+### 15. Cuál es el primer comando que deberías usar en la terminal.
+
+### 16. Si quisieras clonar un repositorio git, ¿qué pasos tendrías que dar? ¿Cómo comprobarías que ha funcionado?
 
 
+### 17. ¿Qué hay que hacer para ver el valor de la variable de entorno de shell "PATH" con el comando "echo"?
 
+### 18. Pon un ejemplo de "operadores" que hemos utilizado o bien en la terminal o en buscadores de la Web.
+### 19. ¿Qué harías si al ejecutar un comando te salta el aviso "command not found"?
+### 20. ¿Cómo harías para que OpenRefine interpretara correctamente los tipos de datos?
 
 
