@@ -67,6 +67,8 @@ nano además de un comando es un editor de texto, y lo he utilizado como tal.
 
 ### 12. ¿Qué relación tiene el formato CSV con Excel?
 
+Excel es una aplicación para visualizar datos tabulados, y el formato CSV muestra los datos separados por comas, por lo que se complementan muy bien.
+
 ### 13. ¿Cuál fue el comienzo del CAR (Computer Assisted Reporting)?
 El comienzo de Computer Assited Reporting lleva funcionando en Estados Unidos desde 1950. Como pasó en su dia con el diseño gráfico, a este tipo de periodismo se le denominó así por tratarse de un periodismo "asistido por ordenador".
 
@@ -75,19 +77,33 @@ El comienzo de Computer Assited Reporting lleva funcionando en Estados Unidos de
 Hay varios tipos de formatos:
 
 1. XML: muy complejo para el nivel en que nos encontramos. Significa eXtensible Markup Language
-2. JSON:
-3. CSV: 
+2. JSON: Significa o JavaScript Object Notation. Permite más complejidad de CSV, pero tambien es mñas difícil de leer. 
+3. CSV: Es el más usado y el más secillo de utilizar. La mayoría de bases de datos abiertas se encuentran en este formato.  Significa Valores Separados por Comas.
 
+Su mayor diferencia es la complejidad. 
 
 ### 15. Cuál es el primer comando que deberías usar en la terminal.
 
+No sé si es el primero, pero creo que uno de los primeros comandos que se debe usar en la terminal es pwd, porque te dice dónde estás (print working directory)
+
 ### 16. Si quisieras clonar un repositorio git, ¿qué pasos tendrías que dar? ¿Cómo comprobarías que ha funcionado?
 
+Para clonar un reporitorio git habría que entrar en el repositorio de GitHub y seleccionar en un botón verde la opción de "Clone". Esto nos generará un código que deberémos utilizar en la terminal. Para conectarlos deberemos hacer: git clone + el código creado. Esto servirá para conectar terminal y repositorio. Una vez que queramos abrir nuestro repositorio en la terminal debemos hacer cd + nombre del repositorio y, a partir de ese momento, todo lo que hagamos en Cygwin se conectará a GitHub. Por ejemplo, si has creado un texto en nano y quieres que aparezca en tu repositorio deberás hacer lo siguiente:
+
+1. git add "nombredelarchivo"
+2. git commit -m "acción" (por ejemplo: suboarchivo")
+3. git push main origin.
+
+Tras seguir estos pasos, la terminal te pedirá el nombre de usuario y la contraseña (towken).
 
 ### 17. ¿Qué hay que hacer para ver el valor de la variable de entorno de shell "PATH" con el comando "echo"?
 
+Para conocer el valor de la variable PATH se debe de escribir en la terminal: echo $PATH
+
 ### 18. Pon un ejemplo de "operadores" que hemos utilizado o bien en la terminal o en buscadores de la Web.
+
 ### 19. ¿Qué harías si al ejecutar un comando te salta el aviso "command not found"?
+
 ### 20. ¿Cómo harías para que OpenRefine interpretara correctamente los tipos de datos?
 
 
